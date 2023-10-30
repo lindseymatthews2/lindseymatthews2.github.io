@@ -1,0 +1,25 @@
+---
+title: "Lindsey Matthews"
+about:
+  template: jolla
+  image: img/profile.png
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Lindsey Matthews majors in Accounting at SUNY Geneseo. When not working on accounting, Lindsey enjoys spending time playing soccer. 
+
+## Education
+
+State University of New York at Geneseo | Geneseo, NY <br>
+B.S. in Acccounting | Aug 2021 - May 2025 <br>
+Minor in Finance 
+
+## Experience
+
+GP Fund Solutions | Accounting Intern | May 2023 - Aug 2023
